@@ -1,9 +1,9 @@
 ULTRAMARIOBROSV0
 
-ULTRAMARIOBROSV0 is a 3D Mario-inspired game developed using [insert game engine/framework]. It aims to recreate the magic of classic 3D platformers with a unique twist. Join Mario on an exciting adventure as he embarks on a journey to rescue Princess Peach from the clutches of Bowser.
+ULTRAMARIOBROSV0 is a 3D Mario-inspired game developed using [GOOGLE GEMINI/GPT4 API]. It aims to recreate the magic of classic 3D platformers with a unique twist. Join Mario on an exciting adventure as he embarks on a journey to rescue Princess Peach from the clutches of Bowser.
 
 Features
-
+- Platform 3D in URSINA ENGINE
 Classic 3D platformer gameplay reminiscent of the beloved Mario series.
 Explore beautifully crafted levels filled with obstacles, enemies, and secrets.
 Collect power-ups like Super Mushrooms and Fire Flowers to enhance Mario's abilities.
